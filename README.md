@@ -1,3 +1,3 @@
-# Instagram (Test for search by location)
+# Instagram (Test for search by hashtag)
 
 Witthawat Tanoi SE 6030213041
